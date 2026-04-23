@@ -61,10 +61,5 @@ export default function Home() {
         </div>
       </main>
     </div>
-    {jacob()}
   );
-}
-
-function jacob() {
-  return <div>Jacob</div>;
 }
